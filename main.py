@@ -12,8 +12,8 @@ import utils, error_handler
 
 
 image_sizes = {"dall-e-3":['1024x1024', '1024x1792', '1792x1024'],"dall-e-2":['256x256', '512x512', '1024x1024']}
-openai_url = 'https://api.openai.com/v1/images/generations'
-
+#openai_url = 'https://api.openai.com/v1/images/generations'
+openai_url = 'https://api.voilatech.co.jp/v1/openai/images/generations'
 config = utils.get_path('config.json')
 output = utils.get_path('output')
 icon = utils.get_path('resources/image/transparent.png')
