@@ -5,9 +5,9 @@
 ## Reverse Proxy Link
 
 ## Key
-![我的图片](./img/.png "这是图片标题")
+![我的图片](./image/1.png "key")
 { width=400 }
-输入你的密钥，点击 [这里](https://ai.voilatech.co.jp/) 在我们的官网获取更加方便的 API 密钥，或者可以在 OpenAI 官网获取。
+输入你的密钥，点击 [这里](https://ai.voilatech.co.jp/) 在我们的官网获取更加方便的 API 密钥，或者可以在 OpenAI 官网获取。k
 
 ## Model
 选择你的生成模型，目前支持 DALL·E 2 和 DALL·E 3 两种：
