@@ -5,7 +5,7 @@
 ## Reverse Proxy Link
 
 ## Key
-![gradio](img/1.png){ width=400 }
+![key](./img/1.png){ width=400 }
 输入你的密钥，点击 [这里](https://ai.voilatech.co.jp/) 在我们的官网获取更加方便的 API 密钥，或者可以在 OpenAI 官网获取。
 
 ## Model
