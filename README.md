@@ -1,6 +1,8 @@
-本教程采用中文
-[English version of the tutorial, click here](./readme/english)
-[日本語版の使用チュートリアルはここをクリック](./readme/japanese)
+**本教程采用中文**
+
+**[English version of the tutorial, click here](./readme/english)**
+
+**[日本語版の使用チュートリアルはここをクリック](./readme/japanese)**
 
 
 # 使用教程
@@ -11,6 +13,7 @@
 
 
 ## Reverse Proxy Link
+
 
 ## Key
 ![我的图片](./image/4.png "key")
