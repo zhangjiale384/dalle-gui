@@ -1,8 +1,8 @@
 **本教程采用中文**
 
-**[English version of the tutorial, click here](./readme/english)**
+**[English version of the tutorial, click here](./readme/english.md)**
 
-**[日本語版の使用チュートリアルはここをクリック](./readme/japanese)**
+**[日本語版の使用チュートリアルはここをクリック](./readme/japanese.md)**
 
 
 # 使用教程
