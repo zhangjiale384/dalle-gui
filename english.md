@@ -39,7 +39,7 @@ Enter your API key here. Click [here](https://ai.voilatech.co.jp/) to obtain a c
 
 Choose the model for generation. Currently, we support DALL·E 2 and DALL·E 3:
 - **DALL·E 3**: Provides **more accurate** depiction based on prompts, but **is more expensive**;
-- **DALL·E 2**: Offers results that are **slightly inferior** to DALL·E 3, but **is cheaper**.
+- **DALL·E 2**： is **less expensive** and better suited for generating **lower-resolution** images.
 
 ![My Image](./image/11.png "key")
 ![My Image](./image/12.png "key")
